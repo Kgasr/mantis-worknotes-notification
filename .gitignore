@@ -1,0 +1,5 @@
+.idea
+/logs/
+/venv/
+/attachments/
+error.log
